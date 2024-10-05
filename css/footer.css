@@ -1,5 +1,5 @@
 #container{
-    height: 500px;
+    height: 410px;
     width: 1265px;
     margin-left: -5px;
     background-color: #192d72;
@@ -47,9 +47,9 @@
     height: 100px;
     width: 320px;
     margin-left: 150px;
-    margin-top: 100px;
+    margin-top: 40px;
     color: aliceblue;
-    font-size: 20px;
+    font-size: 25px;
 }
 #text3{
     height: 100px;
@@ -61,7 +61,7 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 #social{
-    margin-top: -385px;
+    margin-top: -325px;
     margin-left: 850px;
     color: aliceblue;
     font-size: 25px;
