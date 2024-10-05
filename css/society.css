@@ -1,22 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
 body{
-    background-color: black;
+    background-color: #00195a;
     background-size: cover;
 }
  #society{
     height: 50px;
     width: 1252px;
-    margin-left: -4px;
-    background: linear-gradient(rgb(129, 32, 226),rgba(4, 4, 4, 0.993));
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin-left: -5px;
+    background-color: #;
 
  }
  #text{
     font-size: 45px;
-    margin-left: 100px;
-    margin-top: -10px;
+    
+    margin-top: 70px;
     font-family: "Baloo Bhai 2", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -28,8 +25,9 @@ body{
     margin-top: 100px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color:#7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:#00a3e0;
     position: relative;
    
 }
@@ -39,31 +37,35 @@ body{
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #third{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #00a3e0;
 }
 #fourth{
     margin-left: 625px;
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 }
 #fifth{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #00a3e0;
 
 }
 #sixth{
@@ -71,16 +73,18 @@ body{
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #seventh{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #00a3e0 ;
 
 }
 #eighth{
@@ -88,16 +92,18 @@ body{
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #ninth{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:  #00a3e0;
 
 }
 #tenth{
@@ -105,32 +111,36 @@ body{
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #eleventh{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:  #00a3e0;
 }
 #twelve{
     margin-left: 625px;
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #thirteen{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:  #00a3e0;
 
 }
 #fourteen{
@@ -138,26 +148,29 @@ body{
     position: relative;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #be398d;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #7fb3d5;
 
 }
 #fifteen{
     margin-left: -4px;
     height: 200px;
     width: 620px;
-    border-radius: 20px;
-    background-color: #7945bf;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:  #00a3e0;
 
 }
 
 #text1{
-    font-size: 28px;
-    margin-left: 140px;
+    font-size: 30px;
+    margin-left: 135px;
     margin-top: 10px;
     position: absolute;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(215, 251, 10);
+    color: #ffa500;
+    text-shadow: 2px 2px 2px black;
 }
 #tag1{
     height: 2px;
