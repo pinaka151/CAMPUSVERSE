@@ -1,0 +1,81 @@
+#container{
+    height: 500px;
+    width: 1265px;
+    margin-left: -5px;
+    background-color: #192d72;
+    position: absolute;
+}
+#img1{
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+}
+#img2{
+    margin-top: 30px;
+    margin-left: -10px;
+    position: absolute;
+    
+}
+#text1{
+    height: 100px;
+    width: 320px;
+    margin-left: 60px;
+    margin-top: -10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+#other{
+    margin-top: -155px;
+    margin-left: 450px;
+    color: aliceblue;
+    font-size: 25px;
+    height: 100px;
+    width: 175px;
+    position: absolute;
+}
+#text2{
+    margin-top: -15px;
+    margin-left: 2px;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 120px;
+}
+
+#disc{
+    height: 100px;
+    width: 320px;
+    margin-left: 150px;
+    margin-top: 100px;
+    color: aliceblue;
+    font-size: 20px;
+}
+#text3{
+    height: 100px;
+    width: 900px;
+    margin-left: 150px;
+    margin-top: -70px;
+    color: aliceblue;
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#social{
+    margin-top: -385px;
+    margin-left: 850px;
+    color: aliceblue;
+    font-size: 25px;
+    height: 100px;
+    width: 175px;
+    position: absolute;
+}
+#text4{
+    font-size: 20px;
+    width: 300px;
+}
+#photo1{
+    height: 100px;
+    width: 320px;
+    margin-left: 30px;
+    margin-top: -150px;
+}
